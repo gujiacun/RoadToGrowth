@@ -26,9 +26,9 @@
 
 #### [数据结构与算法]()
 
-- [手撕数据结构与算法-开篇](https://mp.weixin.qq.com/s/sWpbqEWHCZCimjRcy2pMKw)
-- [手撕数据结构与算法-数组](https://mp.weixin.qq.com/s/D3PRoRVE_D26WTPSojmrpw)
-- [手撕数据结构与算法-链表](https://mp.weixin.qq.com/s/jOqX4tWIROOXC0l11c1QLQ)
+- [手撕数据结构与算法-开篇](./notes/data-structures-and-algorithms/【手撕数据结构与算法】-开篇.md)
+- [手撕数据结构与算法-数组](notes/data-structures-and-algorithms/【手撕数据结构与算法】-数组.md)
+- [手撕数据结构与算法-链表](./notes/data-structures-and-algorithms/【手撕数据结构与算法】-链表.md)
 
 ### 2. 框架
 
