@@ -42,20 +42,19 @@
 <!--emoji-->
 <script src="//unpkg.com/docsify/lib/plugins/emoji.js"></script>
 <!--评论-->
+<link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
 <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
 <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
 <script>
     const gitalk = new Gitalk({
-        // 这个需要在github上申请一个OAuth application
-        clientID: 'be7f4bdd42beb86c4fca',   // GitHub Application Client ID
-        clientSecret: '511f5ddc5fde26ee6b1af6ee930db0313d85ee03',   // GitHub Application Client Secret
-        repo: 'RoadToGrowth', // //存储你评论 issue 的 Github 仓库名
+        clientID: 'be7f4bdd42beb86c4fca',
+        clientSecret: '511f5ddc5fde26ee6b1af6ee930db0313d85ee03',
+        repo: 'RoadToGrowth',
         owner: 'CodeGeekLee',
-        admin: ['CodeGeekLee'],    // 这个仓库的管理员
-        distractionFreeMode: true,  // 是否添加全屏遮罩
-        id: window.location.pathname    // 页面的唯一标识，gitalk 会根据这个标识自动创建的issue的标签,我们使用页面的相对路径作为标识
+        admin: ['CodeGeekLee'],
+        // facebook-like distraction free mode
+        distractionFreeMode: false
     })
-    gitalk.render('gitalk-container');    // 渲染Gitalk评论组件
 </script>
 <!--代码高亮-->
 <script src="//unpkg.com/prismjs/components/prism-java.min.js"></script>
