@@ -1,7 +1,7 @@
 <img width="220px" src="./image/codegeek.png">
 
 
-- 本项目包含了技术面试必备的基础知识，内容浅显易懂，你不需要花很长的时间去阅读和理解成堆的技术书籍就可以快速掌握这些知识，从而节省宝贵的面试复习时间。
+- 本网站包含大部分一线互联网技术，目前属于孵化期，作为学习的记录，也为日后的复习提供便利，节省宝贵的时间。同时也希望能让读者快速了解和掌握技术点。
 
 <!--<span id="busuanzi_container_site_pv">Site View : <span id="busuanzi_value_site_pv">-->
 
