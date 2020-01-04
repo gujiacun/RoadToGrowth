@@ -1,6 +1,6 @@
 # 介绍
 
-[![https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-CodeGeek-green](https://img.shields.io/badge/公众号-CodeGeek-green)](www.baidu.com)![https://img.shields.io/badge/original-%E5%8F%8C%E5%93%A5-yellow](https://img.shields.io/badge/original-双哥-yellow)
+[![https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-CodeGeek-green](https://img.shields.io/badge/公众号-CodeGeek-green)]()![https://img.shields.io/badge/original-%E5%8F%8C%E5%93%A5-yellow](https://img.shields.io/badge/original-双哥-yellow)
 
 工作也有一段时间了，想将工作这段时间学习到的技术做一次系统的学习，之前学习的都是些碎片知识，现在要将这些碎片拼在一起。这是一个从点到面的过程，2020年计划以博客的形势记录。欢迎大家Star和follow！下面这个脑图是我粗略的列了一些技术点，主要是结合我目前工作中使用到的，脑图目前比较粗糙，我会随着学习的进度不断完善。
 
