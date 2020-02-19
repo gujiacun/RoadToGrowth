@@ -30,7 +30,9 @@
 
 ### 2. 框架
 
-#### Mybatis
+#### [Mybatis]()
+
+- [「Mybatis系列」Mybatis基础](./notes/mybatis/Mybatis基础.md)
 
 #### Spring
 
