@@ -32,7 +32,8 @@
 
 #### [Mybatis]()
 
-- [「Mybatis系列」Mybatis基础](./notes/mybatis/Mybatis基础.md)
+- [「Mybatis系列」Mybatis入门](notes/mybatis/Mybatis入门.md)
+- [「Mybatis系列」Mybatis开发方式和配置](notes/mybatis/Mybatis开发方式和配置.md)
 
 #### Spring
 
