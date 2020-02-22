@@ -35,6 +35,7 @@
 - [「Mybatis系列」Mybatis入门](notes/mybatis/Mybatis入门.md)
 - [「Mybatis系列」Mybatis开发方式和配置](notes/mybatis/Mybatis开发方式和配置.md)
 - [「Mybatis系列」Mybatis高级应用](notes/mybatis/Mybatis高级应用.md)
+- [「Mybatis系列」Mybatis缓存](notes/mybatis/Mybatis缓存.md)
 
 #### Spring
 
