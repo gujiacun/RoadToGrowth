@@ -10,23 +10,23 @@
 
 #### [Java]()
 
-- [「Java8系列」Lambda表达式](./notes/java/【Java8系列】Lambda表达式.md)
-- [「Java8系列」函数式接口](./notes/java/【Java8系列】函数式接口.md)
-- [「Java8系列」流式编程Stream](./notes/java/【Java8系列】流式编程Stream.md)
-- [「Java8系列」NPE神器Optional](./notes/java/【Java8系列】NPE神器Optional.md)
-- [Java11都有哪些特性?](./notes/java/Java11都有哪些特性.md)
+- [「Java8系列」Lambda表达式](./docs/notes/java/【Java8系列】Lambda表达式.md)
+- [「Java8系列」函数式接口](./docs/notes/java/【Java8系列】函数式接口.md)
+- [「Java8系列」流式编程Stream](./docs/notes/java/【Java8系列】流式编程Stream.md)
+- [「Java8系列」NPE神器Optional](./docs/notes/java/【Java8系列】NPE神器Optional.md)
+- [Java11都有哪些特性?](./docs/notes/java/Java11都有哪些特性.md)
 
 #### [数据结构与算法]()
 
-- [手撕数据结构与算法-开篇](./notes/data-structures-and-algorithms/【手撕数据结构与算法】-开篇.md)
-- [手撕数据结构与算法-数组](./notes/data-structures-and-algorithms/【手撕数据结构与算法】-数组.md)
-- [手撕数据结构与算法-链表](./notes/data-structures-and-algorithms/【手撕数据结构与算法】-链表.md)
+- [手撕数据结构与算法-开篇](./docs/notes/data-structures-and-algorithms/【手撕数据结构与算法】-开篇.md)
+- [手撕数据结构与算法-数组](./docs/notes/data-structures-and-algorithms/【手撕数据结构与算法】-数组.md)
+- [手撕数据结构与算法-链表](./docs/notes/data-structures-and-algorithms/【手撕数据结构与算法】-链表.md)
 
 #### 操作系统
 
 #### [JVM]()
 
-- [JVM 进阶 | 基础知识](./notes/jvm/JVM%20进阶%20%7C%20基础知识.md)
+- [JVM进阶|基础知识](./docs/notes/jvm/JVM%20进阶%20%7C%20基础知识.md)
 
 #### 计算机组成原理
 
@@ -34,10 +34,10 @@
 
 #### [Mybatis]()
 
-- [「Mybatis系列」Mybatis入门](notes/mybatis/Mybatis入门.md)
-- [「Mybatis系列」Mybatis开发方式和配置](notes/mybatis/Mybatis开发方式和配置.md)
-- [「Mybatis系列」Mybatis高级应用](notes/mybatis/Mybatis高级应用.md)
-- [「Mybatis系列」Mybatis缓存](notes/mybatis/Mybatis缓存.md)
+- [「Mybatis系列」Mybatis入门](./docs/notes/mybatis/Mybatis入门.md)
+- [「Mybatis系列」Mybatis开发方式和配置](./docs/notes/mybatis/Mybatis开发方式和配置.md)
+- [「Mybatis系列」Mybatis高级应用](./docs/notes/mybatis/Mybatis高级应用.md)
+- [「Mybatis系列」Mybatis缓存](./docs/notes/mybatis/Mybatis缓存.md)
 
 #### Spring
 
@@ -53,7 +53,7 @@
 
 ### 5.分布式
 
-- [了解分布式架构](./notes/distributed/了解分布式架构.md)
+- [了解分布式架构](./docs/notes/distributed/了解分布式架构.md)
 
 #### Mysql
 
@@ -65,8 +65,8 @@
 
 ### 7. 实战
 
-- [JUnit4教程+实践](./notes/java/JUnit4教程+实践.md)
-- [通用点赞设计思路](./notes/practice/通用点赞设计思路.md)
+- [JUnit4教程+实践](./docs/notes/java/JUnit4教程+实践.md)
+- [通用点赞设计思路](./docs/notes/practice/通用点赞设计思路.md)
 
 
 ### 8.职业发展
